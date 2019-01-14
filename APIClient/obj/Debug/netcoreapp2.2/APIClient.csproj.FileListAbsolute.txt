@@ -1,0 +1,10 @@
+D:\Dev\lab\API Sample\APIClient\obj\Debug\netcoreapp2.2\APIClient.csproj.CoreCompileInputs.cache
+D:\Dev\lab\API Sample\APIClient\obj\Debug\netcoreapp2.2\APIClient.AssemblyInfoInputs.cache
+D:\Dev\lab\API Sample\APIClient\obj\Debug\netcoreapp2.2\APIClient.AssemblyInfo.cs
+D:\Dev\lab\API Sample\APIClient\bin\Debug\netcoreapp2.2\APIClient.deps.json
+D:\Dev\lab\API Sample\APIClient\bin\Debug\netcoreapp2.2\APIClient.runtimeconfig.json
+D:\Dev\lab\API Sample\APIClient\bin\Debug\netcoreapp2.2\APIClient.runtimeconfig.dev.json
+D:\Dev\lab\API Sample\APIClient\bin\Debug\netcoreapp2.2\APIClient.dll
+D:\Dev\lab\API Sample\APIClient\bin\Debug\netcoreapp2.2\APIClient.pdb
+D:\Dev\lab\API Sample\APIClient\obj\Debug\netcoreapp2.2\APIClient.dll
+D:\Dev\lab\API Sample\APIClient\obj\Debug\netcoreapp2.2\APIClient.pdb
